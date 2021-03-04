@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01-menu.unity
+    guid: 90dfa09340489c9459e5d0bd5283a2f3
+  - enabled: 1
+    path: Assets/Scenes/02-GamePlay.unity
+    guid: 38a6fa0d04c228e40a2f4234723fb2b5
+  - enabled: 1
+    path: Assets/Scenes/03-gamemeun.unity
+    guid: 507efbab9b3df7f49bb803c1bbb4db3c
+  - enabled: 1
+    path: Assets/Scenes/04-mainscreen.unity
+    guid: 20efe3ef600adf04c9ac55b274feb967
+  - enabled: 1
+    path: Assets/Scenes/05-WindowFrame.unity
+    guid: 4eb58c50fb4ef9e4082f4e999f3285cb
+  - enabled: 1
+    path: Assets/Scenes/06-character.unity
+    guid: 2b5632b0bf81f834e89a6638b38904d2
+  - enabled: 1
+    path: Assets/Scenes/07-LevelSelect.unity
+    guid: 44d35c058b4137f4bb4b7fc2e334bdcc
+  - enabled: 1
+    path: Assets/Scenes/08-Quest.unity
+    guid: 9576ebc4a03b24f468b0ad0b1172eb42
+  - enabled: 1
+    path: Assets/Scenes/09-setting.unity
+    guid: 06536baf9130ef041820fb80573ee6ff
+  - enabled: 1
+    path: Assets/Scenes/10-Login.unity
+    guid: 423695c79882d0d48bdc6ac7bddd2382
+  m_configObjects: {}

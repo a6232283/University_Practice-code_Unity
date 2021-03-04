@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 4b25a1fa35f272445a0ee15d788b0de5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DrawCall_85
+    100002: EndFeeler
+    100004: EndHead
+    100006: EndHips
+    100008: EndLEar3
+    100010: EndLFoot
+    100012: EndLHand
+    100014: EndLToe
+    100016: EndREar3
+    100018: EndRFoot
+    100020: EndRHand
+    100022: EndRToe
+    100024: EndTail3
+    100026: Feeler
+    100028: Head
+    100030: Hips
+    100032: LArm
+    100034: LEar1
+    100036: LEar2
+    100038: LEar3
+    100040: LFoot
+    100042: LForeArm
+    100044: LHand
+    100046: LLeg
+    100048: LShoulder
+    100050: LThigh
+    100052: LToe
+    100054: Origin
+    100056: PikachuF
+    100058: //RootNode
+    100060: pm0025_00_BodySkin
+    100062: pm0025_00_pikachu
+    100064: pm0025_01_SippoSkin
+    100066: RArm
+    100068: REar1
+    100070: REar2
+    100072: REar3
+    100074: RFoot
+    100076: RForeArm
+    100078: RHand
+    100080: RLeg
+    100082: RShoulder
+    100084: RThigh
+    100086: RToe
+    100088: Spine1
+    100090: Spine2
+    100092: Tail1
+    100094: Tail2
+    100096: Tail3
+    100098: VriVis01
+    100100: Waist
+    400000: DrawCall_85
+    400002: EndFeeler
+    400004: EndHead
+    400006: EndHips
+    400008: EndLEar3
+    400010: EndLFoot
+    400012: EndLHand
+    400014: EndLToe
+    400016: EndREar3
+    400018: EndRFoot
+    400020: EndRHand
+    400022: EndRToe
+    400024: EndTail3
+    400026: Feeler
+    400028: Head
+    400030: Hips
+    400032: LArm
+    400034: LEar1
+    400036: LEar2
+    400038: LEar3
+    400040: LFoot
+    400042: LForeArm
+    400044: LHand
+    400046: LLeg
+    400048: LShoulder
+    400050: LThigh
+    400052: LToe
+    400054: Origin
+    400056: PikachuF
+    400058: //RootNode
+    400060: pm0025_00_BodySkin
+    400062: pm0025_00_pikachu
+    400064: pm0025_01_SippoSkin
+    400066: RArm
+    400068: REar1
+    400070: REar2
+    400072: REar3
+    400074: RFoot
+    400076: RForeArm
+    400078: RHand
+    400080: RLeg
+    400082: RShoulder
+    400084: RThigh
+    400086: RToe
+    400088: Spine1
+    400090: Spine2
+    400092: Tail1
+    400094: Tail2
+    400096: Tail3
+    400098: VriVis01
+    400100: Waist
+    2100000: Material_001
+    2100002: 'Material #160'
+    2100004: 'Material #161'
+    2100006: 'Material #162'
+    2100008: 'Material #163'
+    2300000: DrawCall_85
+    3300000: DrawCall_85
+    4300000: DrawCall_85
+    4300002: PikachuF
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PikachuF
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

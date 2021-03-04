@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: ab5b4632d17e0bf4ab5b87b9487e0931
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 26b1141698967a74294db5a30c063f08
+  - enabled: 1
+    path: Assets/Scenes/ARcore_Petsimulator_last.unity
+    guid: 52ea0ac1a087d80468c8ffe2a7e87d46
+  - enabled: 1
+    path: Assets/Scenes/ARDragonGame_last.unity
+    guid: d079e5722075f9941a3d5e3bc7700af4
+  m_configObjects: {}
